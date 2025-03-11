@@ -1,6 +1,5 @@
 .navbar{
 display: flex;
-justify-content: center;
-background-color: aliceblue;
 color: black;
+background-color: white;
 }

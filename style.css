@@ -1,11 +1,11 @@
 .navbar{
 display: flex;
 color: black;
+background-color:gray;
 padding: 5px;
-margin: 10px;
-image-rendering: pixelated;
-}
+height:20px;
 
+}
 body{
 background-color: white;
 
